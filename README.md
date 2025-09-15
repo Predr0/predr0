@@ -1,5 +1,5 @@
-<h1 align="center">Hey! 👋, I'm Pedro Magalhães</h1>
-<h3 align="center">A curious bachelor on Computer Information Systems at IFMG</h3>
+<h1 align="center">Hey! 👋, I'm Pedro Magalhães!</h1>
+<h3 align="center">🎓 A curious bachelor on Computer Information Systems at IFMG</h3>
 
 <h2 align="left">About me</h2>
 
