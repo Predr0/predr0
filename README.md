@@ -1,10 +1,19 @@
 <h1 align="center">Hey! 👋, I'm Pedro Magalhães</h1>
 <h3 align="center">A curious bachelor on Computer Information Systems at IFMG</h3>
 
+<h2 align="left">About me</h2>
 
-<p>🎬 I’m currently learning **Video Editing, with Adobe Premiere!**</p>
+<p align="left"> 
+<br>🎬 I’m currently learning <strong>Video Editing with Adobe Premiere!</strong></br>
 
-<p>👥🚀 Ask me about **leadership, goal setting and group motivation!**</p>
+<br>👥🚀 Ask me about <strong>leadership, goal setting, and group motivation!</strong></br>
+
+<br>🎮 I’ve already developed a <strong>mini-game</strong> as a personal project, which helped me understand the basics of game design and logic.</br>
+
+<br>🏢 I have <strong>entrepreneurial experience</strong>, including managing projects and working with teams to bring ideas to life.</br>
+
+<br>🤖📊 I’m currently exploring the world of <strong>Artificial Intelligence and Data Analysis</strong>, diving into how data can drive smarter decisions and innovation.</br>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
