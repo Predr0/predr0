@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predr0&label=Profile%20views&color=0e75b6&style=flat" alt="predr0" /> </p>
 
-🌱 I’m currently learning **Video Editing, with Adobe Premiere!**
+🎬 I’m currently learning **Video Editing, with Adobe Premiere!**
 
-💬 Ask me about **leadership, goal setting and group motivation!**
+👥🚀 Ask me about **leadership, goal setting and group motivation!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
