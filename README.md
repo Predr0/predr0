@@ -1,7 +1,6 @@
 <h1 align="center">Hey! 👋, I'm Pedro Magalhães</h1>
 <h3 align="center">A curious bachelor on Computer Information Systems at IFMG</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=predr0&label=Profile%20views&color=0e75b6&style=flat" alt="predr0" /> </p>
 
 🎬 I’m currently learning **Video Editing, with Adobe Premiere!**
 
