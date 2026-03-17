@@ -4,7 +4,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left"> 
-<br>🎬 I’m currently learning <strong>Video Editing with Adobe Premiere!</strong></br>
+<br>🎬 I’m currently learning <strong>Video Editing with DaVinci Resolve!</strong></br>
 
 <br>👥🚀 Ask me about <strong>leadership, goal setting, and group motivation!</strong></br>
 
