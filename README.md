@@ -47,11 +47,3 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
-
----
-
-### Analytics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=predr0&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="predr0" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=predr0&show_icons=true&theme=synthwave&locale=en" alt="predr0" height="165px" />
-</p>
